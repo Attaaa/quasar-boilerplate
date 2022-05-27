@@ -1,0 +1,31 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "octref.vetur",
+    "maptz.regionfolder",
+    "akamud.vscode-theme-onedark",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "mikestead.dotenv",
+    "ivobarros.vs-focus",
+    "roonie007.hide-files",
+    "wix.vscode-import-cost",
+    "davidanson.vscode-markdownlint",
+    "pkief.material-icon-theme",
+    "christian-kohler.npm-intellisense",
+    "esbenp.prettier-vscode",
+    "syler.sass-indented",
+    "mrmlnc.vscode-attrs-sorter",
+    "cssho.vscode-svgviewer",
+    "wayou.vscode-todo-highlight",
+    "dariofuzinato.vue-peek",
+    "stylelint.vscode-stylelint",
+    "pucelle.run-on-save",
+    "Equinusocio.vsc-community-material-theme"
+  ],
+  "unwantedRecommendations": [
+    "hookyqr.beautify",
+    "dbaeumer.jshint",
+    "ms-vscode.vscode-typescript-tslint-plugin"
+  ]
+}
